@@ -1,7 +1,7 @@
 {
   "name"            : "Minion",
   "description"     : "",
-  "version"         : "0.1.0",
+  "version"         : "0.1.1",
   "homepage"        : "http://marr.github.com/Minion",
   "author"          : {
     "name"  : "David Marr",

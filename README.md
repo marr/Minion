@@ -1,4 +1,4 @@
-grunt-jasmine-runner-example
+Minion
 ============================
 
 [![Build Status](https://secure.travis-ci.org/marr/Minion.png)](http://travis-ci.org/marr/Minion)
